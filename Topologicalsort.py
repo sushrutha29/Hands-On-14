@@ -32,7 +32,7 @@ order = topologicalsort(graph)
 print("Topological order:", order)
 
 
-'''
+"""
 output:
 Topological order: ['socks', 'undershorts', 'pants', 'shoes', 'shirt', 'tie', 'belt', 'jacket']
-'''
+"""
